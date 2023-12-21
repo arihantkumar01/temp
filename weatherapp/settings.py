@@ -25,7 +25,7 @@ SECRET_KEY = 'wvezp(%^6ns8s6$@r=iij3so+v6eeqp6xyb_f_ikcbp5h*@nso'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
